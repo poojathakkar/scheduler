@@ -1,5 +1,6 @@
 # Interview Scheduler
 
+
 ## Setup
 
 Install dependencies with `npm install`.
@@ -21,3 +22,8 @@ npm test
 ```sh
 npm run storybook
 ```
+## Dependencies
+
+- axios
+- @testing-library/react-hooks
+- react-test-renderer
